@@ -80,7 +80,7 @@ def launch_game(args, list_kanas):
     total_time = 0
     max_time = 0    
     min_time = 1000000
-    if args.guess == 'fr':
+    if args.guess == 'en':
         hidden = 1
         displayed = 0
     else:
