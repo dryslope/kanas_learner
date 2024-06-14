@@ -1,6 +1,6 @@
 # Kanas learner
 
-Small program made to learn japanese kanas (katakanas and hiraganas).
+Small program made to learn japanese kanas (katakana and hiragana).
 
 This was originally made to work on [Termux](https://termux.dev/en/).
 
