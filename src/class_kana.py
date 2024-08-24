@@ -1,11 +1,6 @@
 #!/bin/env python3
 # -*- coding: utf-8 -*-
 
-import os
-import argparse
-import random
-import datetime
-from time import sleep
 from constants import (SEPARATOR, INDEX_EN, INDEX_JP)
 
 class Kana():
