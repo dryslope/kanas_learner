@@ -5,6 +5,7 @@ import os
 
 INDEX_JP = 0
 INDEX_EN = 1
+INDEX_OGEN = 2
 SEPARATOR = ":"
 NB_KANAS = 46
 HOME = os.environ["HOME"]
